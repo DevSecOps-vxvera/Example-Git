@@ -1,2 +1,2 @@
 # Example-Git
-Example for Git Trainning
+Example for Git for Trainning
